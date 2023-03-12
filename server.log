@@ -1,0 +1,491 @@
+Array
+(
+    [PATH] => /usr/local/bin:/usr/bin:/bin
+    [TEMP] => /tmp
+    [TMP] => /tmp
+    [TMPDIR] => /tmp
+    [PWD] => /
+    [LSCAPI_CRIU_SYNC_FD] => 7
+    [HTTP_ACCEPT] => */*
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+    [HTTP_ACCEPT_LANGUAGE] => ru,ru-RU;q=0.8,en-US;q=0.5,en;q=0.3
+    [CONTENT_LENGTH] => 0
+    [HTTP_HOST] => axacode.ru
+    [HTTP_REFERER] => http://127.0.0.1:5500/
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0
+    [HTTP_ORIGIN] => http://127.0.0.1:5500
+    [HTTP_SEC_FETCH_DEST] => empty
+    [HTTP_SEC_FETCH_MODE] => cors
+    [HTTP_SEC_FETCH_SITE] => cross-site
+    [HTTP_TE] => trailers
+    [HTTP_X_HTTPS] => 1
+    [UNIQUE_ID] => Y3FR2hFN9CxAZsfc_ZVeygAATwg
+    [SCRIPT_URL] => /index3.php
+    [SCRIPT_URI] => https://axacode.ru/index3.php
+    [HTTPS] => on
+    [SSL_TLS_SNI] => axacode.ru
+    [HTTP2] => on
+    [H2PUSH] => on
+    [H2_PUSH] => on
+    [H2_PUSHED] => 
+    [H2_PUSHED_ON] => 
+    [H2_STREAM_ID] => 15
+    [H2_STREAM_TAG] => 79-15
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache
+    [SERVER_NAME] => axacode.ru
+    [SERVER_ADDR] => 91.219.194.4
+    [SERVER_PORT] => 443
+    [REMOTE_ADDR] => 46.242.113.230
+    [DOCUMENT_ROOT] => /home/bh56359/axacode.ru
+    [REQUEST_SCHEME] => https
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /home/bh56359/axacode.ru
+    [SERVER_ADMIN] => webmaster@axacode.good-cms.ru
+    [SCRIPT_FILENAME] => /home/bh56359/axacode.ru/index3.php
+    [REMOTE_PORT] => 54928
+    [SERVER_PROTOCOL] => HTTP/2.0
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => action=3
+    [REQUEST_URI] => /index3.php?action=3
+    [SCRIPT_NAME] => /index3.php
+    [PHP_SELF] => /index3.php
+    [REQUEST_TIME_FLOAT] => 1668370906.4559
+    [REQUEST_TIME] => 1668370906
+)
+
+Array
+(
+    [PATH] => /usr/local/bin:/usr/bin:/bin
+    [TEMP] => /tmp
+    [TMP] => /tmp
+    [TMPDIR] => /tmp
+    [PWD] => /
+    [LSCAPI_CRIU_SYNC_FD] => 7
+    [HTTP_ACCEPT] => */*
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+    [HTTP_ACCEPT_LANGUAGE] => ru,ru-RU;q=0.8,en-US;q=0.5,en;q=0.3
+    [CONTENT_LENGTH] => 0
+    [HTTP_HOST] => axacode.ru
+    [HTTP_REFERER] => http://127.0.0.1:5500/
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0
+    [HTTP_ORIGIN] => http://127.0.0.1:5500
+    [HTTP_SEC_FETCH_DEST] => empty
+    [HTTP_SEC_FETCH_MODE] => cors
+    [HTTP_SEC_FETCH_SITE] => cross-site
+    [HTTP_TE] => trailers
+    [HTTP_X_HTTPS] => 1
+    [UNIQUE_ID] => Y3FSNJq20KGoetsD31wXNQABjA8
+    [SCRIPT_URL] => /index3.php
+    [SCRIPT_URI] => https://axacode.ru/index3.php
+    [HTTPS] => on
+    [SSL_TLS_SNI] => axacode.ru
+    [HTTP2] => on
+    [H2PUSH] => on
+    [H2_PUSH] => on
+    [H2_PUSHED] => 
+    [H2_PUSHED_ON] => 
+    [H2_STREAM_ID] => 15
+    [H2_STREAM_TAG] => 396-15
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache
+    [SERVER_NAME] => axacode.ru
+    [SERVER_ADDR] => 91.219.194.4
+    [SERVER_PORT] => 443
+    [REMOTE_ADDR] => 178.176.78.29
+    [DOCUMENT_ROOT] => /home/bh56359/axacode.ru
+    [REQUEST_SCHEME] => https
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /home/bh56359/axacode.ru
+    [SERVER_ADMIN] => webmaster@axacode.good-cms.ru
+    [SCRIPT_FILENAME] => /home/bh56359/axacode.ru/index3.php
+    [REMOTE_PORT] => 28418
+    [SERVER_PROTOCOL] => HTTP/2.0
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => action=3
+    [REQUEST_URI] => /index3.php?action=3
+    [SCRIPT_NAME] => /index3.php
+    [PHP_SELF] => /index3.php
+    [REQUEST_TIME_FLOAT] => 1668370996.5692
+    [REQUEST_TIME] => 1668370996
+)
+
+Array
+(
+    [PATH] => /usr/local/bin:/usr/bin:/bin
+    [TEMP] => /tmp
+    [TMP] => /tmp
+    [TMPDIR] => /tmp
+    [PWD] => /
+    [LSCAPI_CRIU_SYNC_FD] => 7
+    [HTTP_ACCEPT] => */*
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+    [HTTP_ACCEPT_LANGUAGE] => ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+    [CONTENT_LENGTH] => 0
+    [HTTP_HOST] => axacode.ru
+    [HTTP_REFERER] => http://127.0.0.1:5500/
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
+    [HTTP_ORIGIN] => http://127.0.0.1:5500
+    [HTTP_SEC_FETCH_DEST] => empty
+    [HTTP_SEC_FETCH_MODE] => cors
+    [HTTP_SEC_FETCH_SITE] => cross-site
+    [HTTP_TE] => trailers
+    [HTTP_X_HTTPS] => 1
+    [UNIQUE_ID] => Y3jZsPKlhbIgh-fXeSXsgwABUQg
+    [SCRIPT_URL] => /index3.php
+    [SCRIPT_URI] => https://axacode.ru/index3.php
+    [HTTPS] => on
+    [SSL_TLS_SNI] => axacode.ru
+    [HTTP2] => on
+    [H2PUSH] => on
+    [H2_PUSH] => on
+    [H2_PUSHED] => 
+    [H2_PUSHED_ON] => 
+    [H2_STREAM_ID] => 15
+    [H2_STREAM_TAG] => 337-15
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache
+    [SERVER_NAME] => axacode.ru
+    [SERVER_ADDR] => 91.219.194.4
+    [SERVER_PORT] => 443
+    [REMOTE_ADDR] => 188.123.231.115
+    [DOCUMENT_ROOT] => /home/bh56359/axacode.ru
+    [REQUEST_SCHEME] => https
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /home/bh56359/axacode.ru
+    [SERVER_ADMIN] => webmaster@axacode.good-cms.ru
+    [SCRIPT_FILENAME] => /home/bh56359/axacode.ru/index3.php
+    [REMOTE_PORT] => 28688
+    [SERVER_PROTOCOL] => HTTP/2.0
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => action=3
+    [REQUEST_URI] => /index3.php?action=3
+    [SCRIPT_NAME] => /index3.php
+    [PHP_SELF] => /index3.php
+    [REQUEST_TIME_FLOAT] => 1668864432.4923
+    [REQUEST_TIME] => 1668864432
+)
+
+Array
+(
+    [PATH] => /usr/local/bin:/usr/bin:/bin
+    [TEMP] => /tmp
+    [TMP] => /tmp
+    [TMPDIR] => /tmp
+    [PWD] => /
+    [LSCAPI_CRIU_SYNC_FD] => 7
+    [HTTP_ACCEPT] => */*
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+    [HTTP_ACCEPT_LANGUAGE] => ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+    [CONTENT_LENGTH] => 0
+    [HTTP_HOST] => axacode.ru
+    [HTTP_REFERER] => http://127.0.0.1:5500/
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
+    [HTTP_ORIGIN] => http://127.0.0.1:5500
+    [HTTP_SEC_FETCH_DEST] => empty
+    [HTTP_SEC_FETCH_MODE] => cors
+    [HTTP_SEC_FETCH_SITE] => cross-site
+    [HTTP_TE] => trailers
+    [HTTP_X_HTTPS] => 1
+    [UNIQUE_ID] => Y3jZw15ZEvILd2rg-g5JDQAAzgI
+    [SCRIPT_URL] => /index3.php
+    [SCRIPT_URI] => https://axacode.ru/index3.php
+    [HTTPS] => on
+    [SSL_TLS_SNI] => axacode.ru
+    [HTTP2] => on
+    [H2PUSH] => on
+    [H2_PUSH] => on
+    [H2_PUSHED] => 
+    [H2_PUSHED_ON] => 
+    [H2_STREAM_ID] => 15
+    [H2_STREAM_TAG] => 206-15
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache
+    [SERVER_NAME] => axacode.ru
+    [SERVER_ADDR] => 91.219.194.4
+    [SERVER_PORT] => 443
+    [REMOTE_ADDR] => 188.123.231.115
+    [DOCUMENT_ROOT] => /home/bh56359/axacode.ru
+    [REQUEST_SCHEME] => https
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /home/bh56359/axacode.ru
+    [SERVER_ADMIN] => webmaster@axacode.good-cms.ru
+    [SCRIPT_FILENAME] => /home/bh56359/axacode.ru/index3.php
+    [REMOTE_PORT] => 23880
+    [SERVER_PROTOCOL] => HTTP/2.0
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => action=3
+    [REQUEST_URI] => /index3.php?action=3
+    [SCRIPT_NAME] => /index3.php
+    [PHP_SELF] => /index3.php
+    [REQUEST_TIME_FLOAT] => 1668864451.2471
+    [REQUEST_TIME] => 1668864451
+)
+
+Array
+(
+    [PATH] => /usr/local/bin:/usr/bin:/bin
+    [TEMP] => /tmp
+    [TMP] => /tmp
+    [TMPDIR] => /tmp
+    [PWD] => /
+    [LSCAPI_CRIU_SYNC_FD] => 7
+    [HTTP_ACCEPT] => */*
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+    [HTTP_ACCEPT_LANGUAGE] => ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+    [CONTENT_LENGTH] => 0
+    [HTTP_HOST] => axacode.ru
+    [HTTP_REFERER] => http://127.0.0.1:5500/
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
+    [HTTP_ORIGIN] => http://127.0.0.1:5500
+    [HTTP_SEC_FETCH_DEST] => empty
+    [HTTP_SEC_FETCH_MODE] => cors
+    [HTTP_SEC_FETCH_SITE] => cross-site
+    [HTTP_TE] => trailers
+    [HTTP_X_HTTPS] => 1
+    [UNIQUE_ID] => Y3jZw15ZEvILd2rg-g5JDgAAzgI
+    [SCRIPT_URL] => /index3.php
+    [SCRIPT_URI] => https://axacode.ru/index3.php
+    [HTTPS] => on
+    [SSL_TLS_SNI] => axacode.ru
+    [HTTP2] => on
+    [H2PUSH] => on
+    [H2_PUSH] => on
+    [H2_PUSHED] => 
+    [H2_PUSHED_ON] => 
+    [H2_STREAM_ID] => 17
+    [H2_STREAM_TAG] => 206-17
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache
+    [SERVER_NAME] => axacode.ru
+    [SERVER_ADDR] => 91.219.194.4
+    [SERVER_PORT] => 443
+    [REMOTE_ADDR] => 188.123.231.115
+    [DOCUMENT_ROOT] => /home/bh56359/axacode.ru
+    [REQUEST_SCHEME] => https
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /home/bh56359/axacode.ru
+    [SERVER_ADMIN] => webmaster@axacode.good-cms.ru
+    [SCRIPT_FILENAME] => /home/bh56359/axacode.ru/index3.php
+    [REMOTE_PORT] => 23880
+    [SERVER_PROTOCOL] => HTTP/2.0
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => action=3
+    [REQUEST_URI] => /index3.php?action=3
+    [SCRIPT_NAME] => /index3.php
+    [PHP_SELF] => /index3.php
+    [REQUEST_TIME_FLOAT] => 1668864451.6376
+    [REQUEST_TIME] => 1668864451
+)
+
+Array
+(
+    [PATH] => /usr/local/bin:/usr/bin:/bin
+    [TEMP] => /tmp
+    [TMP] => /tmp
+    [TMPDIR] => /tmp
+    [PWD] => /
+    [LSCAPI_CRIU_SYNC_FD] => 7
+    [HTTP_ACCEPT] => */*
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+    [HTTP_ACCEPT_LANGUAGE] => ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+    [CONTENT_LENGTH] => 0
+    [HTTP_HOST] => axacode.ru
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
+    [HTTP_ORIGIN] => null
+    [HTTP_SEC_FETCH_DEST] => empty
+    [HTTP_SEC_FETCH_MODE] => cors
+    [HTTP_SEC_FETCH_SITE] => cross-site
+    [HTTP_TE] => trailers
+    [HTTP_X_HTTPS] => 1
+    [UNIQUE_ID] => Y3jgN_KlhbIgh-fXeSX0LQABVBY
+    [SCRIPT_URL] => /index3.php
+    [SCRIPT_URI] => https://axacode.ru/index3.php
+    [HTTPS] => on
+    [SSL_TLS_SNI] => axacode.ru
+    [HTTP2] => on
+    [H2PUSH] => on
+    [H2_PUSH] => on
+    [H2_PUSHED] => 
+    [H2_PUSHED_ON] => 
+    [H2_STREAM_ID] => 15
+    [H2_STREAM_TAG] => 340-15
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache
+    [SERVER_NAME] => axacode.ru
+    [SERVER_ADDR] => 91.219.194.4
+    [SERVER_PORT] => 443
+    [REMOTE_ADDR] => 188.123.231.115
+    [DOCUMENT_ROOT] => /home/bh56359/axacode.ru
+    [REQUEST_SCHEME] => https
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /home/bh56359/axacode.ru
+    [SERVER_ADMIN] => webmaster@axacode.good-cms.ru
+    [SCRIPT_FILENAME] => /home/bh56359/axacode.ru/index3.php
+    [REMOTE_PORT] => 34064
+    [SERVER_PROTOCOL] => HTTP/2.0
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => action=3
+    [REQUEST_URI] => /index3.php?action=3
+    [SCRIPT_NAME] => /index3.php
+    [PHP_SELF] => /index3.php
+    [REQUEST_TIME_FLOAT] => 1668866103.8153
+    [REQUEST_TIME] => 1668866103
+)
+
+Array
+(
+    [PATH] => /usr/local/bin:/usr/bin:/bin
+    [TEMP] => /tmp
+    [TMP] => /tmp
+    [TMPDIR] => /tmp
+    [PWD] => /
+    [LSCAPI_CRIU_SYNC_FD] => 7
+    [HTTP_ACCEPT] => */*
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+    [HTTP_ACCEPT_LANGUAGE] => ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+    [CONTENT_LENGTH] => 0
+    [HTTP_HOST] => axacode.ru
+    [HTTP_REFERER] => http://itgidajax/
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
+    [HTTP_ORIGIN] => http://itgidajax
+    [HTTP_SEC_FETCH_DEST] => empty
+    [HTTP_SEC_FETCH_MODE] => cors
+    [HTTP_SEC_FETCH_SITE] => cross-site
+    [HTTP_TE] => trailers
+    [HTTP_X_HTTPS] => 1
+    [UNIQUE_ID] => Y3jgWoQwtHnD16jLh2yBZwAAlCM
+    [SCRIPT_URL] => /index3.php
+    [SCRIPT_URI] => https://axacode.ru/index3.php
+    [HTTPS] => on
+    [SSL_TLS_SNI] => axacode.ru
+    [HTTP2] => on
+    [H2PUSH] => on
+    [H2_PUSH] => on
+    [H2_PUSHED] => 
+    [H2_PUSHED_ON] => 
+    [H2_STREAM_ID] => 15
+    [H2_STREAM_TAG] => 148-15
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache
+    [SERVER_NAME] => axacode.ru
+    [SERVER_ADDR] => 91.219.194.4
+    [SERVER_PORT] => 443
+    [REMOTE_ADDR] => 188.123.231.115
+    [DOCUMENT_ROOT] => /home/bh56359/axacode.ru
+    [REQUEST_SCHEME] => https
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /home/bh56359/axacode.ru
+    [SERVER_ADMIN] => webmaster@axacode.good-cms.ru
+    [SCRIPT_FILENAME] => /home/bh56359/axacode.ru/index3.php
+    [REMOTE_PORT] => 48324
+    [SERVER_PROTOCOL] => HTTP/2.0
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => action=3
+    [REQUEST_URI] => /index3.php?action=3
+    [SCRIPT_NAME] => /index3.php
+    [PHP_SELF] => /index3.php
+    [REQUEST_TIME_FLOAT] => 1668866138.2302
+    [REQUEST_TIME] => 1668866138
+)
+
+Array
+(
+    [PATH] => /usr/local/bin:/usr/bin:/bin
+    [TEMP] => /tmp
+    [TMP] => /tmp
+    [TMPDIR] => /tmp
+    [PWD] => /
+    [LSCAPI_CRIU_SYNC_FD] => 7
+    [HTTP_ACCEPT] => */*
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+    [HTTP_ACCEPT_LANGUAGE] => ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+    [CONTENT_LENGTH] => 0
+    [HTTP_HOST] => axacode.ru
+    [HTTP_REFERER] => http://itgidajax/
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
+    [HTTP_ORIGIN] => http://itgidajax
+    [HTTP_SEC_FETCH_DEST] => empty
+    [HTTP_SEC_FETCH_MODE] => cors
+    [HTTP_SEC_FETCH_SITE] => cross-site
+    [HTTP_TE] => trailers
+    [HTTP_X_HTTPS] => 1
+    [UNIQUE_ID] => Y3jgnPKlhbIgh-fXeSX0jgABQws
+    [SCRIPT_URL] => /index3.php
+    [SCRIPT_URI] => https://axacode.ru/index3.php
+    [HTTPS] => on
+    [SSL_TLS_SNI] => axacode.ru
+    [HTTP2] => on
+    [H2PUSH] => on
+    [H2_PUSH] => on
+    [H2_PUSHED] => 
+    [H2_PUSHED_ON] => 
+    [H2_STREAM_ID] => 15
+    [H2_STREAM_TAG] => 323-15
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache
+    [SERVER_NAME] => axacode.ru
+    [SERVER_ADDR] => 91.219.194.4
+    [SERVER_PORT] => 443
+    [REMOTE_ADDR] => 188.123.231.115
+    [DOCUMENT_ROOT] => /home/bh56359/axacode.ru
+    [REQUEST_SCHEME] => https
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /home/bh56359/axacode.ru
+    [SERVER_ADMIN] => webmaster@axacode.good-cms.ru
+    [SCRIPT_FILENAME] => /home/bh56359/axacode.ru/index3.php
+    [REMOTE_PORT] => 55490
+    [SERVER_PROTOCOL] => HTTP/2.0
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => action=3
+    [REQUEST_URI] => /index3.php?action=3
+    [SCRIPT_NAME] => /index3.php
+    [PHP_SELF] => /index3.php
+    [REQUEST_TIME_FLOAT] => 1668866204.7458
+    [REQUEST_TIME] => 1668866204
+)
+
+Array
+(
+    [PATH] => /usr/local/bin:/usr/bin:/bin
+    [TEMP] => /tmp
+    [TMP] => /tmp
+    [TMPDIR] => /tmp
+    [PWD] => /
+    [LSCAPI_CRIU_SYNC_FD] => 7
+    [HTTP_ACCEPT] => */*
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate
+    [HTTP_ACCEPT_LANGUAGE] => ru,ru-RU;q=0.8,en-US;q=0.5,en;q=0.3
+    [HTTP_CONNECTION] => keep-alive
+    [CONTENT_LENGTH] => 0
+    [HTTP_HOST] => axacode.ru
+    [HTTP_REFERER] => http://127.0.0.1:5500/
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
+    [HTTP_CACHE_CONTROL] => max-age=0
+    [HTTP_ORIGIN] => http://127.0.0.1:5500
+    [UNIQUE_ID] => Y3j278RDPFyAi7FeGe6PTAAAAIs
+    [SCRIPT_URL] => /index3.php
+    [SCRIPT_URI] => http://axacode.ru/index3.php
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache
+    [SERVER_NAME] => axacode.ru
+    [SERVER_ADDR] => 91.219.194.4
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 50.7.93.28
+    [DOCUMENT_ROOT] => /home/bh56359/axacode.ru
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /home/bh56359/axacode.ru
+    [SERVER_ADMIN] => webmaster@axacode.good-cms.ru
+    [SCRIPT_FILENAME] => /home/bh56359/axacode.ru/index3.php
+    [REMOTE_PORT] => 62373
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => action=3
+    [REQUEST_URI] => /index3.php?action=3
+    [SCRIPT_NAME] => /index3.php
+    [PHP_SELF] => /index3.php
+    [REQUEST_TIME_FLOAT] => 1668871919.2957
+    [REQUEST_TIME] => 1668871919
+)
+
