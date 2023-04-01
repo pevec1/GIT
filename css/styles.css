@@ -9,13 +9,13 @@ h1 {
   text-align: left;
 }
 h2 {
-  margin: 20px 0;
+  margin: 40px 0;
   text-align: left;
 }
 h3 {
   margin: 10px 0;
   text-align: left;
-  font: size 1.5rem;
+  font-size: 1.5rem;
 }
 p {
   font-size: 14px;
@@ -358,6 +358,11 @@ box-shadow: 0px 2px 5px 0 rgba(59, 59, 59, 0.32);
   font-size: medium;
   width: 70%;
 }
+.responseOne {
+  font-size: medium;
+  width: 70%;
+  margin-left:15px;
+}
 .btn-prev2 {
   position: absolute;
   margin: 20% 2%;
@@ -451,21 +456,16 @@ footer {
 }
 .buttons {
   margin-top: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+  padding-inline-start: 0px;
 }
 .btns {
-  position: relative;
-  box-sizing: border-box;
-  display: inline-block;
-
-  font-size: 15px;
-  font-weight: bold;
-  color: #ffffff;
-  text-align: center;
-
-  background-color: #ffffff;
-  border-radius: 10px;
-
-  transition: all 0.25s;
+  margin-right:85px;
+}
+.btn-vk{
+  /* margin-left:20px; */
 }
 
 .btns::before {
@@ -477,27 +477,9 @@ footer {
 
   background-repeat: no-repeat;
   background-position: center;
+
 }
-.btn-vk {
-  position: absolute;
-  left: 0px;
-}
-.btn-fb {
-  position: absolute;
-  left: 80px;
-}
-.btn-google {
-  position: absolute;
-  left: 160px;
-}
-.btn-qr {
-  position: absolute;
-  left: 220px;
-}
-.btn-more {
-  position: absolute;
-  left: 400px;
-}
+
 .btn-vk::before {
   padding-right: 0px;
   background-image: url(../img/icons/icon-vk.svg);
@@ -509,12 +491,14 @@ footer {
   background-image: url(../img/icons/icon-google.svg);
 }
 .btn-qr::before {
-  margin: 0 0 0 20px;
-  padding: 0 60px;
+  width:115px;
   background-image: url(../img/icons/icon-qr.svg);
 }
 .btn-more::before {
   background-image: url(../img/icons/more.svg);
+}
+.qr-link{
+  margin-right:65px;
 }
 .container-info {
   box-sizing: border-box;
@@ -1020,30 +1004,6 @@ padding: 0;     */
     position: absolute;
     margin: 7% 86%;
   }
-
- 
-  .btn-vk {
-    position: absolute;
-    left: 0px;
-  }
-  .btn-fb {
-    position: absolute;
-    left: 80px;
-  }
-  .btn-google {
-    position: absolute;
-    left: 160px;
-  }
-  .btn-qr {
-    display: none;
-    position: absolute;
-    left: 220px;
-  }
-  .btn-more {
-    display: none;
-    position: absolute;
-    left: 400px;
-  }
   .btn-vk::before {
     padding-right: 0px;
     background-image: url(../img/icons/icon-vk.svg);
@@ -1070,4 +1030,33 @@ padding: 0;     */
   .container-info {
     display: none !important;
   }
+.btn-black-mini {
+ margin-right: auto;
+ margin-left:auto;
+}
+.btn-disabled-mini {
+  margin-left:auto;
+  margin-right:auto;
+  width: 90px;
+}
+.container-footer{
+  margin:0 auto;
+}
+.footer-head{
+    text-align:center;
+}
+.btn-qr::before {
+  margin-top: 30px;
+  padding-left: 135px;
+  background-image: url(../img/icons/icon-qr.svg);
+}
+.btn-more::before {
+  margin-top: 30px;
+  padding-left: 40px;
+  background-image: url(../img/icons/more.svg);
+}
+.buttons{
+  padding-inline-start: 40px;
+}
+
 }
