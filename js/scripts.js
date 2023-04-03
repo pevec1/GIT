@@ -191,3 +191,10 @@ function playPrev(e) {
     }
   }, 1000);
 }
+
+
+
+
+function showForm() {
+  document.getElementById("call-form").style.display = "block";
+}

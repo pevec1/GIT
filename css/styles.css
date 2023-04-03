@@ -1071,3 +1071,63 @@ padding: 0;     */
     display: none !important;
   }
 }
+
+.call-btn {
+  background-color: #1abc9c;
+  color: #fff;
+  font-size: 16px;
+  font-weight: bold;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.call-btn:hover {
+  background-color: #16a085;
+}
+
+
+#call-form {
+  display: none;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: #fff;
+  padding: 20px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+}
+
+#call-form h3 {
+  margin-top: 0;
+}
+
+#call-form label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+#call-form input[type="text"],
+#call-form input[type="tel"] {
+  padding: 5px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+#call-form button[type="submit"] {
+  background-color: #1abc9c;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  font-size: 16px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+#call-form button[type="submit"]:hover {
+  background-color: #16a085;
+}
